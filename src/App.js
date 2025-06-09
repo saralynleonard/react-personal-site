@@ -44,10 +44,10 @@ useEffect(() => {
       </header>
       <Navbar />
       <Routes>
-        <Route path='/' element={<Home />} />
-        <Route path='/experience' element={<ExperienceList />} />
-        <Route path='/education' element={<EducationList />} />
-        <Route path='/projects' element={<ProjectList />} />     
+        <Route path='/react-personal-site' element={<Home />} />
+        <Route path='/react-personal-site/experience' element={<ExperienceList />} />
+        <Route path='/react-personal-site/education' element={<EducationList />} />
+        <Route path='/react-personal-site/projects' element={<ProjectList />} />     
         <Route path='*' element={<NotFound />} />     
       </Routes>
       <footer>
