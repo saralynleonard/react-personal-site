@@ -1,0 +1,46 @@
+[
+    {
+        "skill": "AngularJS",
+        "icon": "fa-brands fa-angular"
+    },
+    {
+        "skill": "CSS3",
+        "icon": "fa-brands fa-css3-alt"
+    },
+    {
+        "skill": "Express",
+        "icon": "fa-regular fa-code"
+    },
+    {
+        "skill": "Google Maps API",
+        "icon": "fa-regular fa-location-dot"
+    }, 
+    {
+        "skill": "Handlebars",
+        "icon": "fa-regular fa-mustache"
+    },
+    {
+        "skill": "HTML5",
+        "icon": "fa-brands fa-html5"
+    },
+    {
+        "skill": "JavaScript",
+        "icon": "fa-brands fa-js"
+    },
+    {
+        "skill": "JSON",
+        "icon": "fa-regular fa-brackets-curly"
+    },
+    {
+        "skill": "MongoDB",
+        "icon": "fa-regular fa-database"
+    },
+    {
+        "skill": "Node.js",
+        "icon": "fa-brands fa-node-js"
+    },
+    {
+        "skill": "REST APIs",
+        "icon": "fa-regular fa-brackets-curly"
+    }
+]

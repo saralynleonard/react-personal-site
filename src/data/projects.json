@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "CosmicQuarry - CS701",
+        "links": [
+            {"title": "CosmicQuarry - CS701", "url": "https://saralynleonard.github.io/final-project/#!/"},
+            {"title": "GitHub Repo", "url": "https://github.com/saralynleonard/final-project"}
+        ], 
+        "description": "Final project for CS701, Rich Internet Application Development.", 
+        "skills": ["AngularJS", "Google Maps API", "JSON", "Local Storage"],
+        "dateCompleted": "October 2024"
+    },
+    {
+        "id": 2, 
+        "name": "CosmicQuarry - CS602", 
+        "links": [
+            {"title": "CosmicQuarry - CS602", "url": "https://cosmicquarry-4a6e17474215.herokuapp.com/"},
+            {"title": "GitHub Repo", "url": "https://github.com/saralynleonard/CS602_TermProject"}
+        ],
+        "description": "Final project built for CS602, Server-Side Web Development.", 
+        "skills": ["Node.js", "Express.js", "Handlebars.js", "MongoDB", "REST APIs"], 
+        "dateCompleted": "August 2024"
+    },
+    {
+        "id": 3, 
+        "name": "Saralyn Leonard v1", 
+        "links": [
+            {"title": "Saralyn Leonard v1", "url": "https://saralynleonard.github.io/saralyn-leonardv1/"}
+        ],
+        "description": "First personal website built in 2022 using HTML, CSS, and JavaScript.", 
+        "skills": ["HTML", "CSS", "Javascript"],
+        "dateCompleted": "November 2022"
+    }
+]
