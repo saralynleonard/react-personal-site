@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-personal-site/static/css/main.beb983ec.css",
+    "main.js": "/react-personal-site/static/js/main.7e08378c.js",
+    "static/js/453.96cba20d.chunk.js": "/react-personal-site/static/js/453.96cba20d.chunk.js",
+    "static/media/saralyn-logo.png": "/react-personal-site/static/media/saralyn-logo.cd030163fd69b51c32a5.png",
+    "index.html": "/react-personal-site/index.html",
+    "main.beb983ec.css.map": "/react-personal-site/static/css/main.beb983ec.css.map",
+    "main.7e08378c.js.map": "/react-personal-site/static/js/main.7e08378c.js.map",
+    "453.96cba20d.chunk.js.map": "/react-personal-site/static/js/453.96cba20d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.beb983ec.css",
+    "static/js/main.7e08378c.js"
+  ]
+}
