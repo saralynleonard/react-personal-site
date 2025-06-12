@@ -6,7 +6,7 @@ function Home() {
         <main>
             <section className="abt-container">
                 <p>
-                    Hi, I'm Saralyn, a graduate student pursuing my master's in Computer Information Systems. I love learning new technologies and building create web projects.
+                    Hi, I'm Saralyn, a graduate student pursuing my master's in Computer Information Systems. I love learning new technologies and building creative web projects.
                 </p>
                     <div className="background-container">
                         <p className="background-title">Projects & Experience</p>
